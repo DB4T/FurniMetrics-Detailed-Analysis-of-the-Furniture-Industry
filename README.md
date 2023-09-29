@@ -1,0 +1,2 @@
+# FurniMetrics-Detailed-Analysis-of-the-Furniture-Industry
+FurniMetrics is an ambitious open-source project dedicated to providing a comprehensive and insightful analysis of the furniture industry. This project seeks to empower businesses, analysts, and enthusiasts with the tools and data needed to make informed decisions, track industry trends, and gain a deeper understanding of this dynamic sector.
